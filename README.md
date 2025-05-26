@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on AI projects.
 - 📫 Connect with me at saksham.rohatgi10@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am kinda mid
 
 <!---
